@@ -25,7 +25,7 @@
     req1: <<Requirement 1>>
     req2: <<Requirement 2>>
   ]
-]
+]: ขอรวม code ทั้งหมดแบบ FullCode เพื่อ Copy ไปใช้งาน
 ```
 
 ## Expected Output
@@ -139,11 +139,5 @@
     req3: ผูก state FlatList คลิ๊กปุ่ม Create ให้เพิ่ม ชื่องาน และ รายละเอียด และกลับไปที่หน้า 1
     req4: ผูก state CurrentPage คลิ๊กปุ่ม Back to list ให้กลับไปที่หน้า 1
   ]
-]
-```
-
-## Output Required
-
-```text
-ขอรวม code ทั้งหมดแบบ FullCode เพื่อ Copy ไปใช้งาน
+]: ขอรวม code ทั้งหมดแบบ FullCode เพื่อ Copy ไปใช้งาน
 ```
