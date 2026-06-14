@@ -6,26 +6,19 @@
 [
   React Native
   รูปแบบ: SinglePage
-  แบบ: FullCode
   default-function: App
   without: KeyboardAvoidingView, TouchableWithoutFeedback, SafeAreaView
-
-  view-code-page-1:
-  <<โค้ด View ของหน้า 1>>
-
-  view-code-page-2:
-  <<โค้ด View ของหน้า 2>>
-
+  view-code-page-1: <<โค้ด return View 1 ของ App เรา>>
+  view-code-page-2: <<โค้ด return View 2 ของ App เรา>>
   requirement-page1: [
-    req1: <<Requirement 1>>
-    req2: <<Requirement 2>>
+      req1: ผูก state ??? <<คำสั่ง 1 ตาม req เรา>>
+      req2: ผูก state ??? <<คำสั่ง 2 ตาม req เรา>>
   ]
-
   requirement-page2: [
-    req1: <<Requirement 1>>
-    req2: <<Requirement 2>>
+      req1: ผูก state ??? <<คำสั่ง 1 ตาม req เรา>>
+      req2: ผูก state ??? <<คำสั่ง 2 ตาม req เรา>>
   ]
-]: ขอรวม code ทั้งหมดแบบ FullCode เพื่อ Copy ไปใช้งาน
+]: ขอรวม code ทั้งหมดแบบ fullcode เพื่อ copy ไปใช้งาน
 ```
 
 ## Expected Output
